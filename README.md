@@ -1,4 +1,4 @@
-[![MasterHead](https://cubettech.com/_next/image/?url=https%3A%2F%2Fcubettech.com%2Fwp-content%2Fuploads%2F2021%2F05%2FWEB-Full-Stack-Developer.jpg&w=3840&q=75)]
+![MasterHead](https://cubettech.com/_next/image/?url=https%3A%2F%2Fcubettech.com%2Fwp-content%2Fuploads%2F2021%2F05%2FWEB-Full-Stack-Developer.jpg&w=3840&q=75)
 <h1 align="center">Hi 👋, I'm SHREYASH CHAURASIA</h1>
 <h3 align="center">A Full Stack Developer passionate about crafting seamless web experiences</h3>
 
