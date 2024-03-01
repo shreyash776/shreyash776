@@ -1,16 +1,17 @@
-
+[![MasterHead](https://cubettech.com/_next/image/?url=https%3A%2F%2Fcubettech.com%2Fwp-content%2Fuploads%2F2021%2F05%2FWEB-Full-Stack-Developer.jpg&w=3840&q=75)]
 <h1 align="center">Hi 👋, I'm SHREYASH CHAURASIA</h1>
 <h3 align="center">A Full Stack Developer passionate about crafting seamless web experiences</h3>
 
 - 👨‍💻 All of my projects are available at [https://shreyashchaurasia.vercel.app/](https://shreyashchaurasia.vercel.app/)
 
 - 📫 How to reach me **shreyashchaurasia77@gmail.com**
-
+- <p>💬 Reach me for Websites development</p>
 - 📄 Know about my experiences [https://drive.google.com/file/d/1i4SflD-ohbozLjTf41av3R3f21Lvon7j/view](https://drive.google.com/file/d/1i4SflD-ohbozLjTf41av3R3f21Lvon7j/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/shreyash-chaurasia-48ba16278/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shreyash-chaurasia-48ba16278/" height="30" width="40" /></a>
+  <a href="https://instagram.com/https://www.instagram.com/shreyashchaurasia7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/shreyashchaurasia7/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
